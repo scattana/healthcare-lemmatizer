@@ -38,26 +38,16 @@
 	('presumed', 'v'):'presume',
 	('presumed', 'a'):'presumed',
 	('jugulovenous', 'a'):'jugulovenous',
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"hemolyzed":"hemolysis",
-"aneurysmectomy","aneurysmectomy",
-"pseudomonas":"pseudomonas",
-"ertapenem":"ertapenem",
-"laryngeal":"laryngeal",
-"practitioner":"practitioner",
+	('gastrojejunostomy', 'n'):'gastrojejunostomy',
+	('vicodin', 'n'):'vicodin',
+	('occpational', 'a'):'occpational',
+	('echymotic', 'a'):'echymotic',
+	('albuterol', 'n'):'albuterol',
+	('endarterectomy', 'n'):'endarterectomy',
+	('aneurysmectomy', 'n'):'aneurysmectomy',
+	('pseudomonas', 'n'):'pseudomonas',
+	('ertapenem', 'n'):'ertapenem',
+	('laryngeal', 'a'):'laryngeal',
+	('practitioner', 'n'):'practitioner',
 
 
