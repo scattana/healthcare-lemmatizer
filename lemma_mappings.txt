@@ -1,1 +1,63 @@
-{"resuscitated":"resuscitate"}
+{
+	('drainable', 'a'):'drainable',
+	('reformatted', 'v'):'reformat',
+	('offically', 'r'):'officially',
+	('medications', 'n'):'medication',
+	('tacrolimus', 'n'):'tacrolimus',
+	('neosinephrine', 'n'):'neosinephrine',
+	('anethesiologist', 'n'):'anethesiologist',
+	('coloanal', 'a'):'coloanal',
+	('hemifields','n'):'hemifield',
+	('urosepsis', 'n'):'urosepsis',
+	('uroseptic', 'a'):'uroseptic',
+	('novolin', 'n'):'novolin',
+	('rheumatology', 'n'):'rheumatology',
+	('portosystemic', 'a'):'portosystemic',
+	('hexavitamins', 'n'):'hexavitamin',
+	('subsalicylate', 'n'):'subsalicylate',
+	('reevaluated', 'v'):'reevaluate',
+	('enterobacter', 'n'):'enterobacter',
+	('arousable', 'a'):'arousable',
+	('resuscitated', 'v'):'resuscitated',
+	('stabilizing', 'v'):'stabilize',
+	('stabilizing', 'a'):'stabilizing',
+	('stabilized', 'v'):'stabilize',
+	('facetectomies', 'n'):'facetectomies',
+	('capsules', 'n'):'capsule',
+	('consulted', 'v'):'consult',
+	('consulting', 'a'):'consulting',
+	('consulting', 'v'):'consult',
+	('hemolyzed', 'v'):'hemolyze',
+	('hemolysis', 'n'):'hemolysis',
+	('endomyocardial', 'a'):'endomyocardial',
+	('clonidine', 'n'):'clonidine',
+	('reaccumulation', 'n'):'reaccumulation',
+	('particularly', 'r'):'particularly',
+	('would', 'v'):'will',
+	('aortic', 'a'):'aortic',
+	('presumed', 'v'):'presume',
+	('presumed', 'a'):'presumed',
+	('jugulovenous', 'a'):'jugulovenous',
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"hemolyzed":"hemolysis",
+"aneurysmectomy","aneurysmectomy",
+"pseudomonas":"pseudomonas",
+"ertapenem":"ertapenem",
+"laryngeal":"laryngeal",
+"practitioner":"practitioner",
+
+
