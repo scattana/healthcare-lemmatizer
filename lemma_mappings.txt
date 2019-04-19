@@ -1,4 +1,3 @@
-{
 	('drainable', 'a'):'drainable',
 	('reformatted', 'v'):'reformat',
 	('offically', 'r'):'officially',
@@ -18,11 +17,11 @@
 	('reevaluated', 'v'):'reevaluate',
 	('enterobacter', 'n'):'enterobacter',
 	('arousable', 'a'):'arousable',
-	('resuscitated', 'v'):'resuscitated',
+	('resuscitated', 'v'):'resuscitate',
 	('stabilizing', 'v'):'stabilize',
 	('stabilizing', 'a'):'stabilizing',
 	('stabilized', 'v'):'stabilize',
-	('facetectomies', 'n'):'facetectomies',
+	('facetectomies', 'n'):'facetectomy',
 	('capsules', 'n'):'capsule',
 	('consulted', 'v'):'consult',
 	('consulting', 'a'):'consulting',
@@ -100,9 +99,5 @@
 	('toprolxl', 'n'):'toprolxl',
 	('bisocodyl', 'n'):'bisocodyl',
 	('zyrtec', 'n'):'zyrtec',
-	
-
-
-
-
+	('siagnostic', 'a'):'siagnostic',
 
